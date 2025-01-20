@@ -32,7 +32,7 @@ A simple implementation of the classic Tic Tac Toe game built with HTML, CSS, an
 ---
 
 ## Demo
-Try the live demo: [Rock Paper Scissors Game](#) *(Add link if hosted on GitHub Pages)*
+Try the live demo: [Rock Paper Scissors Game](#) *(https://om-ghare.github.io/tic-tac-toe/)*
 
 ---
 
