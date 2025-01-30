@@ -39,9 +39,13 @@ Try the live demo: [Rock Paper Scissors Game](https://om-ghare.github.io/tic-tac
 ## Setup Instructions 📥
 
 1. Clone this repository to your local machine:
+ ``` bash
 git clone https://github.com/om-ghare/tic-tac-toe.git
+```
 
-2. Navigate to the project directory:
+```bash
+3. Navigate to the project directory:
 cd tic-tac-toe
+```
 
-3. Open the index.html file in your browser to start playing the game. 🌐
+4. Open the ``` index.html ``` file in your browser to start playing the game. 🌐
