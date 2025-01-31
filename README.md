@@ -43,9 +43,9 @@ Try the live demo: [Tic-Tac-Toe](https://om-ghare.github.io/tic-tac-toe/)
 git clone https://github.com/om-ghare/tic-tac-toe.git
 ```
 
-```bash
-3. Navigate to the project directory:
+2. Navigate to the project directory:
+``` bash
 cd tic-tac-toe
 ```
 
-4. Open the ``` index.html ``` file in your browser to start playing the game. 🌐
+3. Open the ``` index.html ``` file in your browser to start playing the game. 🌐
