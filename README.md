@@ -32,7 +32,7 @@ A simple implementation of the classic Tic Tac Toe game built with HTML, CSS, an
 ---
 
 ## Demo
-Try the live demo: [Tic Tac Toe: The Game](https://om-ghare.github.io/tic-tac-toe/)
+Try the live demo: [Tic Tac Toe Game](https://om-ghare.github.io/tic-tac-toe/)
 
 ---
 
