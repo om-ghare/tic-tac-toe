@@ -19,14 +19,15 @@ const winPattern = [
 
 const disableBoxes = () => {
     for(let box of boxes) {
-    box.disabled = true;
+        box.disabled = true;
     }
 };
 
 const enableBoxes = () => {
     for(let box of boxes) {
-    box.disabled = false;
-    box.innerText = "";
+        box.disabled = false;
+        box.innerText = "";
+        box.style.color = "";
     }
 };
 
@@ -53,6 +54,7 @@ boxes.forEach((box) => {
         console.log("box was clicked");
         if(turnO) {
             box.innerText = "O";
+            box.style.color = "blue";
             turnO = false;
         } else {
             box.innerText = "X";
